@@ -26,7 +26,7 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-**TODO:**
+## TODO:
 1) ***Checkmate*** - (check - check whether the king is under attack or not (`canMove()` => **king** must be moved or protected). Mate - if there is no access to move (`target.avaible`), or protect the king);
 2) ***Logic*** of finding a winner (add if - keep track of who ran out of time (*white* or *black*) to display on the screen);
 3) The ability for the user to ***choose the time***;
